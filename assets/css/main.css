@@ -6566,6 +6566,7 @@ input, select, textarea {
 
 			.gallery.style1 article {
 				width: 100%;
+				margin-bottom: 2rem;
 			}
 
 				.gallery.style1 article .caption {
